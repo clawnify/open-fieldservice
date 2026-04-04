@@ -4,6 +4,8 @@ A field service scheduling and business management app for service companies —
 
 Built with **Preact + Hono + SQLite**. Ships with a clean dashboard UI, weekly calendar view, job management, customer database, invoicing, materials tracking, and technician dispatch.
 
+<img width="1728" height="992" alt="Image" src="https://github.com/user-attachments/assets/f200eed4-ac02-49fc-9898-a46d209dc432" />
+
 ## What Is It?
 
 Open Field Scheduling is a production-ready field service management platform designed for the OpenClaw community. Think of it as an open-source alternative to **PestPac**, **ServiceTitan**, **FieldWork**, **Jobber**, or **Housecall Pro** — a complete scheduling and dispatch system you can self-host, customize, and embed in any SaaS product.

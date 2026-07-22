@@ -8,7 +8,8 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@clawnify/db": "^0.2.0",
+    "@clawnify/app": "^0.1.0",
+    "@clawnify/db": "^0.4.1",
     "@hono/zod-openapi": "^0.18.0",
     "hono": "^4.6.0",
     "lucide-preact": "^0.575.0",
@@ -21,11 +22,5 @@
     "typescript": "^5.7.0",
     "vite": "^6.0.0",
     "wrangler": "^4.0.0"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild",
-      "workerd"
-    ]
   }
 }

@@ -2,7 +2,7 @@
 
 # OpenFieldService: The Open-Source PestPac & ServiceTitan Alternative
 
-[![Deploy with Clawnify](https://app.clawnify.com/deploy-button.svg)](https://app.clawnify.com/deploy?repo=clawnify/open-fieldservice)
+[![Deploy with Clawnify](https://app.clawnify.com/deploy-button.svg)](https://app.clawnify.com/deploy?repo=clawnify/OpenFieldService)
 
 A field service scheduling and business management app for service companies — pest control, HVAC, plumbing, cleaning, landscaping, and more. Part of the [OpenClaw](https://github.com/openclaw/openclaw) ecosystem. Zero cloud dependencies — runs locally with SQLite.
 
@@ -52,7 +52,7 @@ OpenFieldService is **vertical-agnostic** — configure service types, pricing, 
 ## Quickstart
 
 ```bash
-git clone https://github.com/clawnify/open-fieldservice.git
+git clone https://github.com/clawnify/OpenFieldService.git
 cd open-fieldservice
 pnpm install
 pnpm run dev
